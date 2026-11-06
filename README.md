@@ -62,3 +62,7 @@ In shazamio-core alone that covers audio stream decoding, CPython and PyPy wheel
 [![GitHub streak](https://streak-stats.demolab.com/?user=Danipulok&theme=tokyonight)](https://github.com/Danipulok)
 
 </div>
+
+---
+
+> From [@CorneiZeR](https://github.com/CorneiZeR): this bruh is cool
